@@ -16,7 +16,7 @@ const RoleDice = ({ currentDice, RollDice, setTotalScore, setShowRules,showRules
         <h1>How to Play Dice Game</h1>
         <p>Select any number</p>
         <p>Click on dice image</p>
-        <p>after click on  dice  if selected number is equal to dice number you will get same point as dice </p>
+        <p>after click on  dice  if selected number is equal to dice number you will get 6 points</p>
         <p>if you get wrong guess then  2 point will be dedcuted </p>
       </RuleBox>:""
       }
